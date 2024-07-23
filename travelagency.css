@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Logo{
+    
+    font-size: 25px;
+    color: blue;
+    word-spacing: 70px;    
+
+}
+.life{
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+    
+}
+.Plan{
+    font-size: 30px;
+    color: chartreuse;
+    text-align: end;
+
+}
+.button{
+word-spacing: 10px;
+}
+.description{
+    word-spacing: 25px;
+    color: aquamarine;
+
+}
+build{
+    font-size: 5px;
+}
+
+.search{
+    font-size: 25px;
+    color: red;
+    word-spacing: 50px;
+    text-align: end;
+}
+.H{
+    font-size: 90PX;
+    color: burlywood;
+
+}
+.d{
+    font-size: 25px;
+    color: yellow;
+    text-align: end;
+    word-spacing: 50px;
+}
